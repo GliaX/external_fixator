@@ -17,6 +17,8 @@ This project is heavily based on work by the Imperial College London team in pro
 
 ## Assembly instructions
 
+## Quality assurance
+* Look at the [testing folder](testing) for instructions.
 
 ## Development
 To open the CAD files, please use:
