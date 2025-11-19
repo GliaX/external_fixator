@@ -12,10 +12,11 @@ commodity 3D printers and easily available nuts, bolts, and metal parts.
 This project is heavily based on work by the Imperial College London team in producing a 3D-printed external fixator.
 
 ## Printing instructions
-* PLA should not be used in production. Only PETG or ABS can be used.
-
+* PLA and ABS should not be used in production. Only PETG can be used.
 
 ## Assembly instructions
+* Head of bolt is situated in the Hex trap of the rod clamp
+* Put the pin clamp onto the bolt and secure with washer and nut on the side of the pin clamp
 
 ## Quality assurance
 * Look at the [testing folder](testing) for instructions.
